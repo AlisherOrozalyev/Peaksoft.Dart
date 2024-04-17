@@ -1,4 +1,4 @@
-import 'package:ozgormolor/ozgormolor.dart';
+import 'package:functions/functions.dart';
 import 'package:test/test.dart';
 
 void main() {

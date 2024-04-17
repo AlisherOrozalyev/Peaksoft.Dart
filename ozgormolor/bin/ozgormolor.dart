@@ -1,18 +1,19 @@
-import 'package:ozgormolor/ozgormolor.dart' as ozgormolor;// тапшырма
 
 void main() {
   // void бул эч нерсени кайтарбаган боштук
   // main функциянын аталышы
 
-  // тапшырма
-  // int 5 orgormo
-  //double 5 ozgormo
-  //bool 3 ozgormo
+  // string бир гана тексттерди алат
+  // int 5 orgormo бир гана болчок сандарды алат
+  //double 5 ozgormo бир гана кош сандарды алат
+  //bool 3 ozgormo бир гана True-False алат
+  
  String al ="salam";
  String bl ="Hello";
  String cl ="Privet";
  String dl ="Aloha";
  print("$al $bl $cl $dl" );
+
 
   int a = 10;
   int b = 11;
@@ -24,6 +25,8 @@ void main() {
   print("Hello $c");
    print("Hello $d");
     print("Hello $e");
+
+
  double f = 1.1;
  double g = 1.2;
  double h = 1.3;
@@ -34,6 +37,8 @@ print("salam $g");
 print("salam $h");
 print("salam $i");
 print("salam $l");
+
+
  bool m = true;
  bool n = false;
  bool o = true;
