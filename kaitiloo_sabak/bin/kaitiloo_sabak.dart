@@ -1,6 +1,7 @@
 
 
 
+
 // void main() {
 // String text = 'Name';
 // int a = 1;
@@ -8,14 +9,14 @@
 // double c = 1.2;
 // dynamic d = false;
 
-
-
 // print('text');
 // print(a);
 // print(b);
 // print(c);
 // print(d);
 // }
+
+
 
 
 // void main(){
@@ -27,13 +28,20 @@
 //   return a+b;
 // }
 
+
+
+
 // void main(){
 // int result = nom(3,2);
 // print(result);
 // }
+
 // int nom(int a,int b){
 // return a*b;
 // }
+
+
+
 
 // void main(){
 // int result = aa(5,3,8,9);
@@ -43,6 +51,8 @@
 // int aa(int a,int b,int c,int d){
 //   return a*b+c-d;
 // }
+
+
 
 // void main(){
 // String result = bb('Salam Aleykum');

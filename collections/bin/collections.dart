@@ -30,5 +30,5 @@ void main() {
      '2': 'Uson',
       '3': 'Azat',
        '4': 'Bakyt'};
-  print(mapName['2']);
+  print(mapName['4']);
 }
