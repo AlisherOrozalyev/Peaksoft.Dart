@@ -25,10 +25,18 @@ void main() {
 
 // Map Бул Collection
 // Map<dynamic,String> Бул Generic
-  Map<dynamic,String> mapName = {
-    '1': 'Asan',
-     '2': 'Uson',
-      '3': 'Azat',
-       '4': 'Bakyt'};
-  print(mapName['4']);
+//   Map<dynamic,String> mapName = {
+//     '1': 'Asan',
+//      '2': 'Uson',
+//       '3': 'Azat',
+//        '4': 'Bakyt'};
+//   print(mapName['4']);
+
+List<double> Bolchok = [
+  1.2,
+  22.1,
+  32.2,
+  55.43
+];
+print(Bolchok);
 }
